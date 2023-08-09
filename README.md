@@ -24,6 +24,19 @@ model_name_or_path="microsoft/git-large-r-coco"
 --per_device_eval_batch_size 100 \
 ```
 
+<br> 
+
+### baseline
+
+- 대회에서 주어진 baseline 실행 시 최대 Public Score: 0.38928 이었음.
+- baseline 내에서 다음 하이퍼파라미터들을 바꿈.
+```
+self.effi = models.efficientnet_v2_l(pretrained=True)
+self.bart = BartModel.from_pretrained('facebook/bart-base')
+epochs=6
+batch_size=16
+```
+
 <br>
 
 ### 아쉬운 점

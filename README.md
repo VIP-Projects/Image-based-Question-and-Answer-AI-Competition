@@ -1,6 +1,6 @@
 # DACON: 월간 데이콘 이미지 기반 질의 응답 AI 경진대회
 
-<img alt="Html" src ="https://img.shields.io/badge/dacon Final rank-Top 6%25-lightblue?style=for-the-badge"/>
+<img alt="Html" src ="https://img.shields.io/badge/dacon Final rank-Top 10%25-lightblue?style=for-the-badge"/>
 
 #### 이미지 기반 질의응답 AI 모델 개발 (23.07.10 - 23.08.07) - 길다영, 김준용
 

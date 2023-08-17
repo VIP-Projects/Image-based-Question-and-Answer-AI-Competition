@@ -16,7 +16,7 @@
 
 <br>
 
-### ./shell_scripts/run_train.sh 수정
+### ./shell_scripts/run_train.sh 수정 
 
 ```
 model_name_or_path="microsoft/git-large-r-coco"
